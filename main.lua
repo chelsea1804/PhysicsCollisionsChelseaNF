@@ -1,9 +1,9 @@
 -- Title: PhysicsAndCollisions
 -- Name: Chelsea NF
 -- Course: ICS2O/3C
--- This program uses the physic engine where objects fall and bounce off a beam 
--- and floor.
------------------------------------------------------------------------------------
+-- This program uses the physic engine where objects fall and bounce off a 
+-- beam and floor.
+--------------------------------------------------------------------------------
 
 -- Hide status bar
 display.setStatusBar(display.HiddenStatusBar)
